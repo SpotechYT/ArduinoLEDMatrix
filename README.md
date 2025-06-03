@@ -13,5 +13,8 @@ Credits to http://www.multiwingspan.co.uk/arduino.php?page=matrix for the basic 
 I created a simple test animation in the Loop function
 Not much to go over, LEDS are initialized in the setup and I created helper functions to turn on specifc LEDS
 
+# Demo Video and Some Code Explanation
+https://www.youtube.com/shorts/m9N-vCrikD8
+
 # This took some time to make!
 Feel free to use this code for you own projects, but if you will publish anything online, mention me ;)
